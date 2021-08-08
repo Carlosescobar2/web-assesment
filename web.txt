@@ -1,0 +1,11 @@
+How does the internet work? 
+
+The internet is filles with servers and networks that can communicate with each other.
+to communicate with each other you send requests through the unique IP adress. 
+
+What happens when you click a link?
+
+When you click a link your browser(in my case chrome) sends a request to that URL 
+that's in the link. Then the link has a hostname that's connect to the IP address.
+Then finally you are redirected to that IP address that will be seen as a name such as
+youtube. 
